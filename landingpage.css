@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap%27);');
+.straw{height:30px;width:50px; border-radius:10px;margin-right:8px;}
+.hat{font-family:"Caveat";
+font-style:italic;
+font-weight:bold;}
+.image{background-color:black;}
+.para{margin-left:50px;}
+.hii{color:#16B2C5;font-size:50px;font-family:"Bree Serif";}
+.hii1{color:#16B2C5;font-size:40px;font-family:"Sans-serif";font-style:italic;}
+.first
+{
+width:160px;
+height:180px;
+}
+.third
+{
+width:300px;
+padding:20px;
+margin-top:5px;
+margin-bottom:8px;
+border-radius:15px;
+}
+.here{font-weight:bold;
+font-size:15px;
+}
+.here:hover{font-size:20px;}
+#bd-example{height:500px;}
+#abc{background-color:black;
+padding-left:130px;
+padding-right:130px;
+padding-top:10px;}
+.hell{font-weight:bold;
+text-align:center;
+animation:hello 1s linear infinite;}
+@keyframes hello
+{0%{color:yellow;}
+20%{color:tomato;}
+40%{color:aqua;}
+60%{color:green;}
+80%{color:red;}
+100%{color:blue;}
+}
